@@ -1,4 +1,3 @@
-// src/atoms/index.ts
 export * from "./appAtoms";
 export * from "./chatAtoms";
 export * from "./localModelsAtoms";
